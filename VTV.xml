@@ -44,10 +44,30 @@
 <item>
 <title>[COLOR cyan]VTV 8 HD[/COLOR]</title>
 <link>udp://@225.1.2.166:30120</link>
-<thumbnail>udp://@225.1.2.166:30120</thumbnail>
+<thumbnail>https://www.upsieutoc.com/images/2019/06/08/vtv8hd.png</thumbnail>
 </item>
 <item>
 <title>[COLOR cyan]VTV 9 HD[/COLOR]</title>
 <link>udp://@225.1.1.128:30120</link>
 <thumbnail>http://sv1.upsieutoc.com/2017/06/27/VTV9HD.png</thumbnail>
 </item>
+
+
+
+</channel>
+<channel>
+<name>[COLOR cyan]Truyền Hình VTC[/COLOR]</name>
+<thumbnail>http://sv1.upsieutoc.com/2016/10/02/VTC.png</thumbnail>
+<items>
+<item>
+<title>[COLOR cyan]VTC 1 HD[/COLOR]</title>
+<link>udp://@225.1.2.254:30120</link>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_151489099811.png</thumbnail>
+</item>
+
+
+
+
+
+
+</stream>
