@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<stream>
+</channel>
+<channel>
+<name>[COLOR cyan][B]KÊNH VTV[/B][/COLOR]</name>
+<thumbnail>http://sv1.upsieutoc.com/2016/10/02/VTV.png</thumbnail>
+<item>
+<item>
+<title>[COLOR cyan]VTV 1 HD[/COLOR]</title>
+<link>udp://@225.1.2.249:30120</link>
+<thumbnail>http://sv1.upsieutoc.com/2016/10/19/vtv1.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan]VTV 2 HD[/COLOR]</title>
+<link>udp://@225.1.2.13:30120</link>
+<thumbnail>http://sv1.upsieutoc.com/2017/06/27/VTV2HD.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan]VTV 3 HD[/COLOR]</title>
+<link>udp://@225.1.2.247:30120</link>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_145810226276.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan]VTV 4 HD[/COLOR]</title>
+<link>udp://@225.1.2.20:30120</link>
+<thumbnail>http://sv1.upsieutoc.com/2017/06/27/VTV4HD.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan]VTV 5 HD[/COLOR]</title>
+<link>udp://@225.1.1.131:30120</link>
+<thumbnail>http://sv1.upsieutoc.com/2017/06/27/vtv5HD.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan]VTV 6 HD[/COLOR]</title>
+<link>udp://@225.1.2.245:30120</link>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_14567302322.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan]VTV 7 HD[/COLOR]</title>
+<link>udp://@225.1.2.96:30120</link>
+<thumbnail>http://sv1.upsieutoc.com/2017/06/27/VTV7HD.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan]VTV 8 HD[/COLOR]</title>
+<link>udp://@225.1.2.166:30120</link>
+<thumbnail>udp://@225.1.2.166:30120</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan]VTV 9 HD[/COLOR]</title>
+<link>udp://@225.1.1.128:30120</link>
+<thumbnail>http://sv1.upsieutoc.com/2017/06/27/VTV9HD.png</thumbnail>
+</item>
