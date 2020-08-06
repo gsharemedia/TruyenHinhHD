@@ -55,15 +55,14 @@
 
 
 </channel>
-</channel>
 <channel>
-<name></name>
-<thumbnail></thumbnail>
+<name>[COLOR cyan]Truyền Hình VTC[/COLOR]</name>
+<thumbnail>http://sv1.upsieutoc.com/2016/10/02/VTC.png</thumbnail>
 <items>
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR cyan]VTC 1 HD[/COLOR]</title>
+<link>udp://@225.1.2.254:30120</link>
+<thumbnail>https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_151489099811.png</thumbnail>
 </item>
 
 
