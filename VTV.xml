@@ -1,2 +1,11 @@
 ^r[0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$
 ^r[0-9]{1,99}-*sn-*[a-z0-9]{1,99}[a-z0-9]{1,99}\.googlevideo\.com$
+^r[0-9]+-+sn-+[a-z0-9]+\.googlevideo\.com$
+r[0-9]+---sn-.*\.googlevideo\.com$
+www.googleadservices.com
+127.0.0.1 youtube.com
+127.0.0.1 youtube.com.vn
+127.0.0.1 https://www.youtube.com/
+/^https?:\/\/(\w*.)?youtube.com/i
+/(doubleclick\.net)|(adservice\.google\.)|(youtube\.com\/api\/stats\/ads)|(&ad_type=)|(&adurl=)|(-pagead-id.)|(doubleclick\.com)|(\/ad_status.)|(\/api\/ads\/)|(\/googleads)|(\/pagead\/gen_)|(\/pagead\/lvz?)|(\/pubads.)|(\/pubads_)|(\/securepubads)|(=adunit&)|(googlesyndication\.com)|(innovid\.com)|(tubemogul\.com)|(youtube\.com\/pagead\/)|(google\.com\/pagead\/)|(flashtalking\.com)|(googleadservices\.com)|(s0\.2mdn\.net\/ads)|(www\.youtube\.com\/ptracking)|(www\.youtube\.com\/pagead)|(www\.youtube\.com\/get_midroll_)|(www\.youtube\.com\/api\/stats)/
+/^https?:\/\/(\w*.)?youtube\.com\/annotations_invideo\?/
